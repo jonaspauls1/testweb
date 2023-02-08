@@ -1,8 +1,9 @@
-body {background-color: #f1f1f1;
+body {background-color: #383838;
 }
 
 h1,h2,h3,h4,h5,h6{
   font-family: "Gill Sans", sans-serif;
+  color: #e1e1e1;
 }
 
 h1 {
@@ -16,9 +17,5 @@ h2 {
 p,ul,li, i{
   font-family: Georgia, serif;
   font-size: 18px;
-  color: #333;
-}
-
-.text-primary{
-  color: #000;
+  color: #e1e1e1;
 }
