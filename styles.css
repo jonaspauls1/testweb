@@ -1,0 +1,21 @@
+h1,h2,h3,h4,h5,h6{
+  font-family:Josefin Sans;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+p,ul,li, i{
+  font-family:Raleway;
+  font-size: 18px;
+  color: #333;
+}
+
+.text-primary{
+  color:black;
+}
